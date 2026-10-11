@@ -1,0 +1,84 @@
+{
+  "featuredProjectId": "project-01",
+  "projects": [
+    {
+      "id": "project-01",
+      "title": "Ambitious Tectonics",
+      "category": "Pavilion & Public Space",
+      "year": "2025",
+      "location": "Taipei, Taiwan",
+      "brief": "A reinterpretation of an archetypical structure, readapted to site, program, and material conditions.",
+      "coverImage": "assets/images/project-01-cover.jpg",
+      "description": "Ambitious Tectonics investigates curved laminated rib structures through parametric generation and digital fabrication. The structure forms a sheltered gathering space that redefines public interaction with modern geometric rhythm.",
+      "details": {
+        "typology": "Public Installation / Pavilion",
+        "scale": "240 sqm",
+        "status": "Concept Design"
+      },
+      "gallery": [
+        {
+          "url": "assets/images/project-01-cover.jpg",
+          "caption": "Curved Rib Structure & Exterior Facade Perspective"
+        },
+        {
+          "url": "assets/images/project-01-slide-2.jpg",
+          "caption": "Daylight Infiltration & Interior Spatial Quality"
+        },
+        {
+          "url": "assets/images/project-01-slide-3.jpg",
+          "caption": "Structural Joint Tectonics & Material Details"
+        }
+      ]
+    },
+    {
+      "id": "project-02",
+      "title": "Riverside Quarters",
+      "category": "Residential Architecture",
+      "year": "2024",
+      "location": "New Taipei City, Taiwan",
+      "brief": "Modular timber dwelling integrated seamlessly into riparian landscape topography.",
+      "coverImage": "assets/images/project-02-cover.jpg",
+      "description": "Riverside Quarters is an exploration into low-impact timber housing overlooking riverbanks. The volume is split into distinct pavilions connected by elevated timber decks.",
+      "details": {
+        "typology": "Residential Housing",
+        "scale": "180 sqm",
+        "status": "Completed Design"
+      },
+      "gallery": [
+        {
+          "url": "assets/images/project-02-cover.jpg",
+          "caption": "Riverside Quarters - East Elevation Landscape View"
+        },
+        {
+          "url": "assets/images/project-02-slide-2.jpg",
+          "caption": "Interior Living Space with River Panorama"
+        }
+      ]
+    },
+    {
+      "id": "project-03",
+      "title": "Coastal Cliff House",
+      "category": "Villa / Conceptual Living",
+      "year": "2024",
+      "location": "Yilan, Taiwan",
+      "brief": "Cantilevered exposed concrete volumes interacting with coastal tides and wind patterns.",
+      "coverImage": "assets/images/project-03-cover.jpg",
+      "description": "Perched on a seaside precipice, this residential study combines rough-cast board-formed concrete and expansive glazing to channel coastal winds and frame uninterrupted sea horizons.",
+      "details": {
+        "typology": "Seaside Residence",
+        "scale": "350 sqm",
+        "status": "Research & Design"
+      },
+      "gallery": [
+        {
+          "url": "assets/images/project-03-cover.jpg",
+          "caption": "Cantilevered Terrace and Sea Horizon Framing"
+        },
+        {
+          "url": "assets/images/project-03-slide-2.jpg",
+          "caption": "Materiality - Board-formed Concrete & Salt-resistant Steel"
+        }
+      ]
+    }
+  ]
+}

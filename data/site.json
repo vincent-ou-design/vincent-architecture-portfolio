@@ -1,0 +1,60 @@
+{
+  "profile": {
+    "englishName": "Vincent",
+    "chineseName": "（中文姓名）",
+    "title": "Architectural Designer & Researcher",
+    "monogram": "V",
+    "tagline": "Explorations in spatial geometry, architectural tectonics, and material systems.",
+    "email": "vincent@example.com",
+    "location": "Taipei, Taiwan",
+    "socialLinks": [
+      {
+        "name": "LinkedIn",
+        "url": "https://linkedin.com",
+        "icon": "linkedin"
+      },
+      {
+        "name": "GitHub",
+        "url": "https://github.com",
+        "icon": "github"
+      },
+      {
+        "name": "Instagram",
+        "url": "https://instagram.com",
+        "icon": "instagram"
+      }
+    ],
+    "about": {
+      "avatar": "assets/images/profile-portrait.jpg",
+      "headline": "Bridging computational design and architectural craftsmanship.",
+      "introParagraph1": "Starting with a deep passion for architectural forms, structural logic, and spatial narrative, my work focuses on contemporary spaces that dialogue with their physical and cultural environment.",
+      "introParagraph2": "Specializing in tectonic research, digital fabrication, and contextual design, I explore innovative design methodologies and spatial experiences through iterative prototyping.",
+      "education": [
+        {
+          "degree": "M.Arch / B.Arch in Architecture",
+          "institution": "National Taiwan University of Science and Technology (NTUST)",
+          "year": "2022 — Present"
+        }
+      ],
+      "experience": [
+        {
+          "role": "Architectural Design Intern",
+          "company": "Architecture Studio",
+          "period": "2024 — 2025",
+          "description": "Collaborated on schematic design and 3D visualization for residential and institutional projects."
+        }
+      ],
+      "skills": [
+        "Architectural Design",
+        "Parametric Modeling (Rhino / Grasshopper)",
+        "Building Information Modeling (BIM)",
+        "Digital Fabrication",
+        "Architectural Rendering & Visualization"
+      ]
+    }
+  },
+  "navigation": [
+    { "label": "Projects", "url": "projects.html" },
+    { "label": "About", "url": "about.html" }
+  ]
+}
