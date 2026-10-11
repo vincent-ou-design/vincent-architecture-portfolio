@@ -1,11 +1,11 @@
 {
   "profile": {
     "englishName": "Vincent",
-    "chineseName": "（中文姓名）",
+    "chineseName": "歐家銘",
     "title": "Architectural Designer & Researcher",
-    "monogram": "V",
-    "tagline": "Explorations in spatial geometry, architectural tectonics, and material systems.",
-    "email": "vincent@example.com",
+    "monogram": "VO",
+    "tagline": "Experienced in residential designs, architectural narrative researches, and architecture-AI innovation.",
+    "email": "vincentou.vo@gmail.com",
     "location": "Taipei, Taiwan",
     "socialLinks": [
       {
@@ -18,11 +18,6 @@
         "url": "https://github.com",
         "icon": "github"
       },
-      {
-        "name": "Instagram",
-        "url": "https://instagram.com",
-        "icon": "instagram"
-      }
     ],
     "about": {
       "avatar": "assets/images/profile-portrait.jpg",
