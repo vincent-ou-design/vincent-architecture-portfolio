@@ -3,15 +3,15 @@
   "projects": [
     {
       "id": "project-01",
-      "title": "Ambitious Tectonics",
-      "category": "Pavilion & Public Space",
-      "year": "2025",
-      "location": "Taipei, Taiwan",
+      "title": "When the Past meets the Present",
+      "category": "Revitalization",
+      "year": "2022",
+      "location": "Jakarta, Indonesia",
       "brief": "A reinterpretation of an archetypical structure, readapted to site, program, and material conditions.",
-      "coverImage": "assets/images/project-01-cover.jpg",
-      "description": "Ambitious Tectonics investigates curved laminated rib structures through parametric generation and digital fabrication. The structure forms a sheltered gathering space that redefines public interaction with modern geometric rhythm.",
+      "coverImage": "assets/images/home-cover .jpg",
+      "description": "Creating enduring, human-centered spaces where functional clarity meets poetic design.",
       "details": {
-        "typology": "Public Installation / Pavilion",
+        "typology": "Revitalization",
         "scale": "240 sqm",
         "status": "Concept Design"
       },

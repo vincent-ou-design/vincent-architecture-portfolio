@@ -1,0 +1,131 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>About | Vincent 歐家銘</title>
+  <meta name="description" content="About Vincent 歐家銘 - Architectural Designer &amp; Researcher">
+
+  <!-- Fonts -->
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link
+    href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600&family=Playfair+Display:ital,wght@0,400;0,600;1,400"
+    rel="stylesheet"> 
+
+  <!-- Stylesheet -->
+  <link rel="stylesheet" href="css/style.css">
+</head>
+
+<body>
+
+  <!-- Global Header -->
+  <header class="site-header">
+    <a href="index.html" class="brand">
+      <span class="brand-monogram">VO</span>
+      <div class="brand-names">
+        <span class="brand-en">Vincent</span>
+        <span class="brand-cn">歐家銘</span>
+      </div>
+    </a>
+
+    <nav class="main-nav" aria-label="Main Navigation">
+      <ul>
+        <li><a href="projects.html">Projects</a></li>
+        <li><a href="about.html" class="active">About</a></li>
+      </ul>
+    </nav>
+  </header>
+
+  <!-- Page Main Content -->
+  <main class="page-container">
+    <div class="about-page-container">
+
+      <!-- Rounded Architectural Card inspired by About Page reference -->
+      <section class="about-card" aria-label="About Vincent">
+
+        <!-- Top Row: Name, Chinese Name, Title, and Meta info -->
+        <header class="about-card-header">
+          <div class="about-title-group">
+            <h1 class="about-name">
+              <span id="about-en-name">Vincent</span>
+              <span class="about-cn-name" id="about-cn-name">歐家銘</span>
+            </h1>
+            <p class="about-title-tag" id="about-title-tag">Architectural Designer &amp; Researcher</p>
+          </div>
+
+          <div class="about-quick-meta">
+            <div class="about-meta-item">
+              <span class="about-meta-label">Location</span>
+              <span id="about-location">Taipei, Taiwan</span>
+            </div>
+            <div class="about-meta-item">
+              <span class="about-meta-label">Inquiries</span>
+              <a href="mailto:vincentou.vo@gmail.com" id="about-email">vincentou.vo@gmail.com</a>
+            </div>
+          </div>
+        </header>
+
+        <!-- Center Row: Portrait image with italic headline statement -->
+        <div class="about-card-body">
+          <div class="about-portrait-wrap">
+            <img id="about-avatar" src="assets/images/profile-portrait.jpg" alt="Vincent 歐家銘 Portrait">
+          </div>
+          <p class="about-headline" id="about-headline">
+            “Experienced in residential designs, architectural narrative researches, and architecture-AI innovation.”
+          </p>
+        </div>
+
+        <!-- Bottom Row: Multi-column architectural narrative & credentials -->
+        <footer class="about-card-footer">
+          <div class="about-section-label">
+            <span>Profile &amp; Tectonics</span>
+          </div>
+
+          <div class="about-narrative-col">
+            <p id="about-p1">
+              Starting with a deep passion for architectural forms, structural logic, and spatial narrative, my work
+              focuses on contemporary spaces that dialogue with their physical and cultural environment.
+            </p>
+            <p id="about-p2">
+              Specializing in architectural narrative research, spatial layout design, and contextual design, I explore
+              innovative design methodologies and spatial experiences through comprehensive understanding of the
+              context, narrative, and end-users' needs.
+            </p>
+          </div>
+
+          <div class="about-details-col">
+            <div class="about-detail-block">
+              <h4>Academic Background</h4>
+              <ul class="about-detail-list" id="about-education-list"></ul>
+            </div>
+
+            <div class="about-detail-block">
+              <h4>Work Experience</h4>
+              <ul class="about-detail-list" id="about-experience-list"></ul>
+            </div>
+
+            <div class="about-detail-block">
+              <h4>Design Tools &amp; Methods</h4>
+              <div class="about-skills-tags" id="about-skills-list"></div>
+            </div>
+          </div>
+        </footer>
+
+      </section>
+
+    </div>
+
+    <!-- Global Footer -->
+    <footer class="site-footer">
+      <p class="footer-copy">© 2026 Vincent Ou 歐家銘. All rights reserved.</p>
+      <p class="footer-note">National Taiwan University of Science and Technology (NTUST)</p>
+    </footer>
+  </main>
+
+  <!-- Main JavaScript for JSON Data Integration -->
+  <script src="js/main.js"></script>
+</body>
+
+</html>

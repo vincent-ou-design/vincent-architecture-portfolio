@@ -4,7 +4,7 @@
     "chineseName": "歐家銘",
     "title": "Architectural Designer & Researcher",
     "monogram": "VO",
-    "tagline": "Experienced in residential designs, architectural narrative researches, and architecture-AI innovation.",
+    "tagline": "Creating enduring, human-centered spaces where functional clarity meets poetic design.",
     "email": "vincentou.vo@gmail.com",
     "location": "Taipei, Taiwan",
     "socialLinks": [
@@ -17,39 +17,62 @@
         "name": "GitHub",
         "url": "https://github.com",
         "icon": "github"
-      },
+      }
     ],
     "about": {
-      "avatar": "assets/images/profile-portrait.jpg",
-      "headline": "Bridging computational design and architectural craftsmanship.",
+      "avatar": "assets/images/profile-picture.jpg",
+      "headline": "Experienced in residential designs, architectural narrative researches, and architecture-AI innovation.",
       "introParagraph1": "Starting with a deep passion for architectural forms, structural logic, and spatial narrative, my work focuses on contemporary spaces that dialogue with their physical and cultural environment.",
-      "introParagraph2": "Specializing in tectonic research, digital fabrication, and contextual design, I explore innovative design methodologies and spatial experiences through iterative prototyping.",
+      "introParagraph2": "Specializing in architectural narrative research, spatial layout design, and contextual design, I explore innovative design methodologies and spatial experiences through comprehensive understanding of the context, narrative, and end-users' needs.",
       "education": [
         {
-          "degree": "M.Arch / B.Arch in Architecture",
-          "institution": "National Taiwan University of Science and Technology (NTUST)",
-          "year": "2022 — Present"
+          "degree": "M.Arch Architecture Candidate",
+          "institution": "National Taiwan University of Science and Technology (NTUST), Taipei",
+          "year": "2026 — Present"
+        },
+        {
+          "degree": "B.Arch Architecture",
+          "institution": "Universitas Tarumanagara (UNTAR), Jakarta",
+          "year": "2018 — 2022"
         }
       ],
       "experience": [
         {
+          "role": "Architectural Design Assistant",
+          "company": "MTL Architects",
+          "period": "2026 — Present",
+          "description": "Collaborated on schematic design and 3D visualization for institutional projects."
+        },
+        {
+          "role": "Junior Architect",
+          "company": "Airmas Asri",
+          "period": "2022 — 2026",
+          "description": "Collaborated on whole project phases on residential, commercial, and institutional projects."
+        },
+        {
           "role": "Architectural Design Intern",
-          "company": "Architecture Studio",
-          "period": "2024 — 2025",
-          "description": "Collaborated on schematic design and 3D visualization for residential and institutional projects."
+          "company": "RCAB Studio",
+          "period": "2021 — 2022",
+          "description": "Collaborated on schematic design private residential projects."
         }
       ],
       "skills": [
         "Architectural Design",
-        "Parametric Modeling (Rhino / Grasshopper)",
+        "3D Modeling (Sketchup)",
         "Building Information Modeling (BIM)",
-        "Digital Fabrication",
+        "Digital Post Production (Photoshop)",
         "Architectural Rendering & Visualization"
       ]
     }
   },
   "navigation": [
-    { "label": "Projects", "url": "projects.html" },
-    { "label": "About", "url": "about.html" }
+    {
+      "label": "Projects",
+      "url": "projects.html"
+    },
+    {
+      "label": "About",
+      "url": "about.html"
+    }
   ]
 }
