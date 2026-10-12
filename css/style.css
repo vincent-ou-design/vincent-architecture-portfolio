@@ -544,6 +544,7 @@ body.page-transitioning .page-container {
     position: static;
     flex-direction: row;
     margin-top: 2rem;
+    padding-left: 2.5vw;
   }
 
   .about-card-footer {
@@ -554,4 +555,13 @@ body.page-transitioning .page-container {
   .about-card-header {
     flex-direction: column;
   }
+
+  .site-footer {
+    padding: 0 2.5vw;
+  }
+
+  .site-footer .footer-note {
+    text-align: right;
+  }
+
 }

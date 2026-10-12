@@ -10,12 +10,12 @@
     "socialLinks": [
       {
         "name": "LinkedIn",
-        "url": "https://linkedin.com",
+        "url": "https://www.linkedin.com/in/vincent-ou-81976b1a5?utm_source=share_via&utm_content=profile&utm_medium=member_android",
         "icon": "linkedin"
       },
       {
         "name": "GitHub",
-        "url": "https://github.com",
+        "url": "https://github.com/vincent-ou-design/",
         "icon": "github"
       }
     ],
@@ -53,15 +53,16 @@
           "role": "Architectural Design Intern",
           "company": "RCAB Studio",
           "period": "2021 — 2022",
-          "description": "Collaborated on schematic design private residential projects."
+          "description": "Collaborated on schematic design on private residential projects."
         }
       ],
       "skills": [
         "Architectural Design",
+        "Architectural Presentation (InDesign / Photoshop)",
         "3D Modeling (Sketchup)",
         "Building Information Modeling (BIM)",
         "Digital Post Production (Photoshop)",
-        "Architectural Rendering & Visualization"
+        "Architectural Rendering & Visualization (D5 / Enscape)"
       ]
     }
   },
