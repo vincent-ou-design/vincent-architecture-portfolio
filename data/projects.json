@@ -3,80 +3,313 @@
   "projects": [
     {
       "id": "project-01",
-      "title": "When the Past meets the Present",
-      "category": "Revitalization",
-      "year": "2022",
+      "title": "Bumi Pakubuwono PIK 2",
+      "category": "Residential Building",
+      "year": "2023",
       "location": "Jakarta, Indonesia",
-      "brief": "A reinterpretation of an archetypical structure, readapted to site, program, and material conditions.",
-      "coverImage": "assets/images/home-cover .jpg",
-      "description": "Creating enduring, human-centered spaces where functional clarity meets poetic design.",
+      "brief": "When you bring mother nature into your home",
+      "coverImage": "assets/images/1-0.png",
+      "description": [
+        "This project is born from a careful analysis of its context—a canal nestled between two prime plots, designated for twin towers. Rooted in the essence of the Bumi Pakubuwono brand, the design focuses on crafting an experience that is luxurious, innovative, and deeply connected to the environment.",
+        "The concept centers on integrating nature into the very fabric of the building. The towers are strategically oriented to embrace the canal, offering inclusive views while incorporating lush vegetation that organically grows from the ground floor to the rooftop. Through meticulous zoning, the program ensures optimal space efficiency without compromising on the spectacular vistas that define the project.",
+        "The design culminates with a seamless connection between the two towers—a continuous canopy that stretches from one tower to the pedestrian walkways, finally linking to the second tower. This unifying element enhances both the visual appeal and the experience of movement through the site, reinforcing the harmony between architecture and nature."
+      ],
       "details": {
-        "typology": "Revitalization",
-        "scale": "240 sqm",
-        "status": "Concept Design"
+        "typology": "Residential Building",
+        "scale": "50,000 sqm",
+        "status": "Ongoing Project"
       },
       "gallery": [
         {
-          "url": "assets/images/project-01-cover.jpg",
-          "caption": "Curved Rib Structure & Exterior Facade Perspective"
+          "url": "assets/images/1-0.png",
+          "caption": "Main View"
         },
         {
-          "url": "assets/images/project-01-slide-2.jpg",
-          "caption": "Daylight Infiltration & Interior Spatial Quality"
+          "url": "assets/images/1-1.png",
+          "caption": "Aerial View"
         },
         {
-          "url": "assets/images/project-01-slide-3.jpg",
-          "caption": "Structural Joint Tectonics & Material Details"
+          "url": "assets/images/1-2.png",
+          "caption": "East View Tower A"
+        },
+        {
+          "url": "assets/images/1-3.jpg",
+          "caption": "Tower A Ground Floor"
+        },
+        {
+          "url": "assets/images/1-4.jpg",
+          "caption": "Tower B Ground Floor"
+        },
+        {
+          "url": "assets/images/1-5.jpg",
+          "caption": "Tower A/B Mezzanine Floor"
+        },
+        {
+          "url": "assets/images/1-6.jpg",
+          "caption": "Tower A/B Facility Floor"
+        },
+        {
+          "url": "assets/images/1-7.jpg",
+          "caption": "Tower A/B Typical Floor"
+        },
+        {
+          "url": "assets/images/1-8.jpg",
+          "caption": "Tower A/B Suite Floor"
+        },
+        {
+          "url": "assets/images/1-9.jpg",
+          "caption": "Bus Stop"
+        },
+        {
+          "url": "assets/images/1-10.jpg",
+          "caption": "Promenade View"
+        },
+        {
+          "url": "assets/images/1-11.jpg",
+          "caption": "Joggin Area"
         }
       ]
     },
     {
       "id": "project-02",
-      "title": "Riverside Quarters",
-      "category": "Residential Architecture",
-      "year": "2024",
-      "location": "New Taipei City, Taiwan",
-      "brief": "Modular timber dwelling integrated seamlessly into riparian landscape topography.",
-      "coverImage": "assets/images/project-02-cover.jpg",
-      "description": "Riverside Quarters is an exploration into low-impact timber housing overlooking riverbanks. The volume is split into distinct pavilions connected by elevated timber decks.",
+      "title": "Marketing Gallery PIK 2",
+      "category": "Gallery",
+      "year": "2023",
+      "location": "Jakarta, Indonesia",
+      "brief": "An explorative gallery design with thoughts of bringing life to the surrounding",
+      "coverImage": "assets/images/2-0.png",
+      "description": [
+        "This project is an innovative marketing office and gallery designed specifically for the Pantai Indah Kapuk 2 (PIK 2) district. It begins with a creative exploration of nature-inspired forms, drawing from elements such as trees, fungi, and organic structures to craft a building that stands as a vibrant jungle oasis amidst the conventional architectural landscape of surrounding residential complexes.",
+        "The program includes a dynamic office space, a central main hall for exhibitions and maquettes, a restaurant, and an expansive outdoor event area. Through a deliberate selection of materials and design elements, this project embodies the very essence of the Pasadena District, serving as the striking first impression of PIK 2, where nature seamlessly intertwines with modern functionality."
+      ],
       "details": {
-        "typology": "Residential Housing",
-        "scale": "180 sqm",
-        "status": "Completed Design"
+        "typology": "Gallery",
+        "scale": "3,500 sqm",
+        "status": "Completed Project"
       },
       "gallery": [
         {
-          "url": "assets/images/project-02-cover.jpg",
-          "caption": "Riverside Quarters - East Elevation Landscape View"
+          "url": "assets/images/2-0.png",
+          "caption": "Main View Day"
         },
         {
-          "url": "assets/images/project-02-slide-2.jpg",
-          "caption": "Interior Living Space with River Panorama"
+          "url": "assets/images/2-1.png",
+          "caption": "Main View Night"
+        },
+        {
+          "url": "assets/images/2-2.png",
+          "caption": "Main Drop Off Entrance"
+        },
+        {
+          "url": "assets/images/2-3.png",
+          "caption": "Secondary Drop Off Entrance"
+        },
+        {
+          "url": "assets/images/2-4.jpg",
+          "caption": "Column Detail Section"
+        },
+        {
+          "url": "assets/images/2-5.jpg",
+          "caption": "Site Photo"
         }
       ]
     },
     {
       "id": "project-03",
-      "title": "Coastal Cliff House",
-      "category": "Villa / Conceptual Living",
-      "year": "2024",
-      "location": "Yilan, Taiwan",
-      "brief": "Cantilevered exposed concrete volumes interacting with coastal tides and wind patterns.",
-      "coverImage": "assets/images/project-03-cover.jpg",
-      "description": "Perched on a seaside precipice, this residential study combines rough-cast board-formed concrete and expansive glazing to channel coastal winds and frame uninterrupted sea horizons.",
+      "title": "Re-Unite Bahari",
+      "category": "Revitalization",
+      "year": "2022",
+      "location": "Jakarta, Indonesia",
+      "brief": "When the Past meets the Present",
+      "coverImage": "assets/images/3-0.jpg",
+      "description": [
+        "This architectural project serves as the final assignment for the Undergraduate Architecture Program, focusing on the concept of Urban Acupuncture. It investigates the potential for creating significant, transformative spaces through small, deliberate interventions.",
+        "At the heart of the design is an exploration of the everydayness of both locals and urban nomads who inhabit the Hexagon Fish Market. Chosen as the site due to its ongoing physical and social decline, the market has become a landscape of abandoned structures and overgrown vegetation, a testament to years of neglect.",
+        "Once a thriving hub for commerce and community, this market ceased its traditional operations as it entered the 21st century, now serving as a gathering space for the urban nomads. The project reimagines this space, transforming it into a place that seamlessly integrates the everydayness of the past with the present daily routines of urban nomads, fostering a new sense of place amidst the ruins."
+      ],
       "details": {
-        "typology": "Seaside Residence",
-        "scale": "350 sqm",
-        "status": "Research & Design"
+        "typology": "Revitalization",
+        "scale": "5,000 sqm",
+        "status": "Design Research"
       },
       "gallery": [
         {
-          "url": "assets/images/project-03-cover.jpg",
-          "caption": "Cantilevered Terrace and Sea Horizon Framing"
+          "url": "assets/images/3-0.jpg",
+          "caption": "Main Research Concept Drawing"
         },
         {
-          "url": "assets/images/project-03-slide-2.jpg",
-          "caption": "Materiality - Board-formed Concrete & Salt-resistant Steel"
+          "url": "assets/images/3-1.jpg",
+          "caption": "Narrative Design"
+        },
+        {
+          "url": "assets/images/3-2.jpg",
+          "caption": "Massing Diagram"
+        },
+        {
+          "url": "assets/images/3-3.jpg",
+          "caption": "Section Rendering 1"
+        },
+        {
+          "url": "assets/images/3-4.jpg",
+          "caption": "Section Rendering 2"
+        },
+        {
+          "url": "assets/images/3-5.jpg",
+          "caption": "Section Rendering 3"
+        },
+        {
+          "url": "assets/images/3-6.jpg",
+          "caption": "Technical Section Drawing"
+        },
+        {
+          "url": "assets/images/3-7.jpg",
+          "caption": "Vista Views"
+        },
+        {
+          "url": "assets/images/3-8.jpg",
+          "caption": "View to balcony"
+        },
+        {
+          "url": "assets/images/3-9.jpg",
+          "caption": "View to gathering space"
+        },
+        {
+          "url": "assets/images/3-10.jpg",
+          "caption": "View to back exterior"
+        },
+        {
+          "url": "assets/images/3-11.jpg",
+          "caption": "View to market 1"
+        },
+        {
+          "url": "assets/images/3-12.jpg",
+          "caption": "View to laundry space"
+        },
+        {
+          "url": "assets/images/3-13.jpg",
+          "caption": "Aerial View"
+        }
+      ]
+    },
+    {
+      "id": "project-04",
+      "title": "Bo.Tani Hub",
+      "category": "Agriculture Architecture",
+      "year": "2021",
+      "location": "Jakarta, Indonesia",
+      "brief": "When the East meets the West",
+      "coverImage": "assets/images/4-0.jpg",
+      "description": [
+        "This architectural project is driven by the thought-provoking question, “What occurs when the East encounters the West?” It seeks to explore the dynamic intersection of Western technology with the deeply rooted traditions of Indonesia’s agricultural culture.",
+        "In response to this question, the design juxtaposes these two realms, each represented as distinct entities. The modern technological aspect of the building is situated on the western section of the site, forming a distinctive zone where advanced technologies—such as UV light radiation, hydroponics, artificial intelligence, and the Internet of Things, etc—can function in harmony.",
+        "On the other hand, the traditional aspect of the building is thoughtfully positioned on the eastern side of the site, fostering a space where the farming community and its cultural heritage can flourish. Here, a harmonious coexistence unfolds, as human traditions and practices merge with the advanced non-human agents (NHAs) integrated into the environment. This arrangement cultivates a dynamic yet balanced coexistence, where both human and technological elements contribute to a shared, sustainable future."
+      ],
+      "details": {
+        "typology": "Agriculture Architecture",
+        "scale": "3,570 sqm",
+        "status": "Design Research"
+      },
+      "gallery": [
+        {
+          "url": "assets/images/4-0.jpg",
+          "caption": "Main View"
+        },
+        {
+          "url": "assets/images/4-1.jpg",
+          "caption": "Provocative Thought"
+        },
+        {
+          "url": "assets/images/4-2.jpg",
+          "caption": "Research Scheme"
+        },
+        {
+          "url": "assets/images/4-3.jpg",
+          "caption": "Floor Plans"
+        },
+        {
+          "url": "assets/images/4-4.jpg",
+          "caption": "Axonometry Section"
+        },
+        {
+          "url": "assets/images/4-5.jpg",
+          "caption": "Garden"
+        }
+      ]
+    },
+    {
+      "id": "project-05",
+      "title": "Rendering / Visualizations",
+      "category": "Visualizations",
+      "year": "2026",
+      "location": "N/A",
+      "brief": "Freelance sidejobs for rendering and visualizations",
+      "coverImage": "assets/images/5-0.jpg",
+      "description": "An explorative journey of visualizations through rendering drawings and conceptual collage drawings",
+      "details": {
+        "typology": "N/A",
+        "scale": "N/A",
+        "status": "N/A"
+      },
+      "gallery": [
+        {
+          "url": "assets/images/5-0.jpg",
+          "caption": "Rendering"
+        },
+        {
+          "url": "assets/images/5-1.jpg",
+          "caption": "Rendering"
+        },
+        {
+          "url": "assets/images/5-2.jpg",
+          "caption": "Rendering"
+        },
+        {
+          "url": "assets/images/5-3.jpg",
+          "caption": "Collage Drawing"
+        },
+        {
+          "url": "assets/images/5-4.jpg",
+          "caption": "Collage Drawing"
+        },
+        {
+          "url": "assets/images/5-5.jpg",
+          "caption": "Collage Drawing"
+        },
+        {
+          "url": "assets/images/5-6.jpg",
+          "caption": "Collage Drawing"
+        },
+        {
+          "url": "assets/images/5-7.jpg",
+          "caption": "Collage Drawing"
+        },
+        {
+          "url": "assets/images/5-8.jpg",
+          "caption": "Collage Drawing"
+        },
+        {
+          "url": "assets/images/5-9.jpg",
+          "caption": "Collage Drawing"
+        },
+        {
+          "url": "assets/images/5-10.jpg",
+          "caption": "Collage Drawing"
+        },
+        {
+          "url": "assets/images/5-11.jpg",
+          "caption": "Collage Drawing"
+        },
+        {
+          "url": "assets/images/5-12.jpg",
+          "caption": "Collage Drawing"
+        },
+        {
+          "url": "assets/images/5-13.jpg",
+          "caption": "Collage Drawing"
+        },
+        {
+          "url": "assets/images/5-14.jpg",
+          "caption": "Collage Drawing"
         }
       ]
     }
