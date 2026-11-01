@@ -346,7 +346,7 @@ img {
   justify-content: space-between;
   text-transform: uppercase;
   align-items: center;
-  font-size: 0.65rem;
+  font-size: clamp(0.5rem, 0.9vw, 0.65rem);   /* <-- Scalable font size */
   color: var(--text-subtle);
   position: relative;
   z-index: 10;
@@ -355,13 +355,13 @@ img {
 .footer-social {
   display: inline-flex;
   align-items: center;
-  gap: 1.8rem;
+  gap: clamp(0.8rem, 1.5vw, 1.8rem);          /* <-- Gap scales down smoothly too */
   transform: translateX(var(--footer-social-offset, 0px));
   transition: transform 0.3s ease;
 }
 
 .footer-social a {
-  font-size: 0.65rem;
+  font-size: inherit;                          /* <-- Inherits the scaling footer size */
   letter-spacing: 0.12em;
   text-transform: uppercase;
   color: var(--text-subtle);
@@ -880,6 +880,16 @@ body.page-transitioning .page-container {
   font-size: 0.85rem;
   line-height: 1.7;
   color: var(--text-muted);
+  text-align: justify;
+  text-justify: inter-word;
+}
+
+.modal-disclaimer {
+  font-size: 0.85rem;
+  line-height: 1.6;
+  font-weight: 700;                 /* Bold */
+  color: var(--text-primary);        /* Primary tone color */
+  margin-top: 1.2rem;               /* Breathing room after description */
   text-align: justify;
   text-justify: inter-word;
 }
