@@ -538,7 +538,7 @@ function setupProjectModal(projectsData) {
     if (specsEl) {
       const details = project.details || {};
       const specs = [
-        { label: "Typology", value: details.typology || project.category },
+        { label: "Role", value: details.role || details.typology || project.category },
         { label: "Scale", value: details.scale || "—" },
         { label: "Status", value: details.status || "—" },
         { label: "Timeline", value: project.year || "—" }

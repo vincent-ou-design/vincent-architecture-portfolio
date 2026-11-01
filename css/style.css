@@ -739,7 +739,28 @@ body.page-transitioning .page-container {
 
 /* Close Button */
 .modal-close-btn {
-  display: none;
+  position: absolute;
+  top: 1.2rem;
+  right: 1.5rem;
+  z-index: 30;
+  width: 32px;
+  height: 32px;
+  border-radius: 50%;
+  border: 1px solid var(--border-color);
+  background: var(--bg-primary);
+  color: var(--text-primary);
+  font-size: 0.9rem;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  cursor: pointer;
+  transition: var(--transition-smooth);
+}
+
+.modal-close-btn:hover {
+  background: var(--text-primary);
+  color: var(--bg-primary);
+  transform: scale(1.05);
 }
 
 /* Modal Body: Split Grid */
@@ -982,23 +1003,40 @@ body.page-transitioning .page-container {
 
   .hero-wrapper {
     grid-template-columns: 1fr;
+    height: auto;
+    /* Allow full height so elements don't get squished */
     min-height: auto;
+    max-height: none;
   }
 
   .hero-media {
-    min-height: 50vh;
+    position: relative;
+    height: 48vh;
+    min-height: 320px;
     order: -1;
   }
 
   .hero-content {
-    padding: 6vh 6vw;
+    padding: 3rem 6vw 4rem;
+    height: auto;
   }
 
-  .hero-social {
-    position: static;
-    flex-direction: row;
-    margin-top: 2rem;
-    padding-left: 2.5vw;
+  .hero-title {
+    height: auto;
+    min-height: auto;
+    max-height: none;
+    margin-bottom: 1rem;
+  }
+
+  .hero-description {
+    height: auto;
+    min-height: auto;
+    max-height: none;
+    margin-bottom: 2rem;
+  }
+
+  .hero-action {
+    margin-top: 0.5rem;
   }
 
   .about-card-footer {

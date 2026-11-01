@@ -2,6 +2,120 @@
   "featuredProjectId": "project-01",
   "projects": [
     {
+      "id": "project-07",
+      "title": "Chu-nan High School Extension Building",
+      "category": "Institutional Building",
+      "year": "2026",
+      "location": "Chunan, Taiwan",
+      "brief": "When colors gather harmoniously",
+      "coverImage": "assets/images/7-1.jpg",
+      "description": [
+        "Draws inspiration from the colors and character of neighboring buildings. By observing the surrounding architecture, the design takes inspiration from its existing color palette to create a meaningful connection with the local environment.",
+        "Rather than copying nearby buildings, the design brings their colors together in a fresh and balanced way. Through the use of different tones, materials, and textures, the building creates a visual harmony while maintaining its own identity.",
+        "Beyond its appearance, the concept also represents bringing people together. Just as different colors can form a harmonious whole, the architecture aims to create a welcoming space where people can gather, interact, and feel connected to their surroundings."
+      ],
+      "details": {
+        "role": "Design & Visualization (MTL Architects)",
+        "scale": "3,100 sqm",
+        "status": "Ongoing Project"
+      },
+      "gallery": [
+        {
+          "url": "assets/images/7-1.jpg",
+          "caption": "Main View"
+        },
+        {
+          "url": "assets/images/7-2.jpg",
+          "caption": "North Entrance View"
+        },
+        {
+          "url": "assets/images/7-3.jpg",
+          "caption": "South Alley View"
+        },
+        {
+          "url": "assets/images/7-4.jpg",
+          "caption": "Aerial View"
+        },
+        {
+          "url": "assets/images/7-5.jpg",
+          "caption": "South Facade View"
+        },
+        {
+          "url": "assets/images/7-6.jpg",
+          "caption": "Classroom Interior"
+        },
+        {
+          "url": "assets/images/7-7.jpg",
+          "caption": "Classroom Interior"
+        },
+        {
+          "url": "assets/images/7-8.jpg",
+          "caption": "Teachers Office Interior"
+        },
+        {
+          "url": "assets/images/7-9.png",
+          "caption": "Teachers Office Interior"
+        },
+        {
+          "url": "assets/images/7-10.jpg",
+          "caption": "Teachers Office Interior"
+        },
+        {
+          "url": "assets/images/7-11.jpg",
+          "caption": "Teachers Office Interior"
+        }
+      ]
+    },
+    {
+      "id": "project-06",
+      "title": "Wen-hsin Elementary School 4th Phase Extension Building",
+      "category": "Institutional Building",
+      "year": "2026",
+      "location": "Taoyuan, Taiwan",
+      "brief": "When you bring life to the courtyard",
+      "coverImage": "assets/images/6-0.jpg",
+      "description": [
+        "The concept places the central courtyard at the heart of the campus, creating a close connection between nature, ecology, and learning. By completing the existing U-shaped campus layout, the fourth phase forms a more enclosed and connected space that brings the campus together as a whole.",
+        "Rather than serving as an empty space between buildings, the courtyard becomes an active center of campus life. Natural light, wind, water, and greenery are carefully integrated to create a comfortable and sustainable environment where nature can thrive alongside educational activities.",
+        "Beyond its environmental benefits, the courtyard encourages students and teachers to gather, interact, and learn beyond the classroom. It becomes a living space that changes with the seasons, supporting biodiversity while creating a healthier and more engaging campus for everyone."
+      ],
+      "details": {
+        "role": "Visualization (MTL Architects)",
+        "scale": "2,500 sqm",
+        "status": "Design Competition"
+      },
+      "gallery": [
+        {
+          "url": "assets/images/6-0.jpg",
+          "caption": "Main View"
+        },
+        {
+          "url": "assets/images/6-1.jpg",
+          "caption": "View to Courtyard"
+        },
+        {
+          "url": "assets/images/6-2.jpg",
+          "caption": "View to Courtyard"
+        },
+        {
+          "url": "assets/images/6-3.jpg",
+          "caption": "North West Facade View"
+        },
+        {
+          "url": "assets/images/6-4.jpg",
+          "caption": "Aerial View"
+        },
+        {
+          "url": "assets/images/6-5.jpg",
+          "caption": "Aerial View to Rooftop"
+        },
+        {
+          "url": "assets/images/6-6.jpg",
+          "caption": "Aerial View to Extension Building"
+        }
+      ]
+    },
+    {
       "id": "project-01",
       "title": "Bumi Pakubuwono PIK 2",
       "category": "Residential Building",
@@ -15,7 +129,7 @@
         "The design culminates with a seamless connection between the two towers—a continuous canopy that stretches from one tower to the pedestrian walkways, finally linking to the second tower. This unifying element enhances both the visual appeal and the experience of movement through the site, reinforcing the harmony between architecture and nature."
       ],
       "details": {
-        "typology": "Residential Building",
+        "role": "Junior Architect (Airmas Asri)",
         "scale": "50,000 sqm",
         "status": "Ongoing Project"
       },
@@ -83,7 +197,7 @@
         "The program includes a dynamic office space, a central main hall for exhibitions and maquettes, a restaurant, and an expansive outdoor event area. Through a deliberate selection of materials and design elements, this project embodies the very essence of the Pasadena District, serving as the striking first impression of PIK 2, where nature seamlessly intertwines with modern functionality."
       ],
       "details": {
-        "typology": "Gallery",
+        "role": "Junior Architect (Airmas Asri)",
         "scale": "3,500 sqm",
         "status": "Completed Project"
       },
@@ -128,7 +242,7 @@
         "Once a thriving hub for commerce and community, this market ceased its traditional operations as it entered the 21st century, now serving as a gathering space for the urban nomads. The project reimagines this space, transforming it into a place that seamlessly integrates the everydayness of the past with the present daily routines of urban nomads, fostering a new sense of place amidst the ruins."
       ],
       "details": {
-        "typology": "Revitalization",
+        "role": "Architecture Student",
         "scale": "5,000 sqm",
         "status": "Design Research"
       },
@@ -205,7 +319,7 @@
         "On the other hand, the traditional aspect of the building is thoughtfully positioned on the eastern side of the site, fostering a space where the farming community and its cultural heritage can flourish. Here, a harmonious coexistence unfolds, as human traditions and practices merge with the advanced non-human agents (NHAs) integrated into the environment. This arrangement cultivates a dynamic yet balanced coexistence, where both human and technological elements contribute to a shared, sustainable future."
       ],
       "details": {
-        "typology": "Agriculture Architecture",
+        "role": "Architecture Student",
         "scale": "3,570 sqm",
         "status": "Design Research"
       },
@@ -246,7 +360,7 @@
       "coverImage": "assets/images/5-0.jpg",
       "description": "An explorative journey of visualizations through rendering drawings and conceptual collage drawings",
       "details": {
-        "typology": "N/A",
+        "role": "Freelancer",
         "scale": "N/A",
         "status": "N/A"
       },
