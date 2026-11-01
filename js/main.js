@@ -475,6 +475,7 @@ function setupProjectModal(projectsData) {
   const specsEl = document.querySelector("#modal-specs");
   const briefEl = document.querySelector("#modal-brief");
   const descEl = document.querySelector("#modal-description");
+  const disclaimerEl = document.querySelector("#modal-disclaimer");
 
   let currentGallery = [];
   let currentPhotoIndex = 0;
@@ -531,6 +532,10 @@ function setupProjectModal(projectsData) {
           .join("");
       } else {
         descEl.textContent = project.description || "";
+      }
+      if (disclaimerEl) {
+        disclaimerEl.textContent = project.disclaimer || "";
+        disclaimerEl.style.display = project.disclaimer ? "block" : "none";
       }
     }
 
