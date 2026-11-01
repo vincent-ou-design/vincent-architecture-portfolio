@@ -738,18 +738,21 @@ body.page-transitioning .page-container {
 }
 
 /* Close Button */
+/* Close Button */
 .modal-close-btn {
   position: absolute;
   top: 1.2rem;
   right: 1.5rem;
   z-index: 30;
-  width: 32px;
-  height: 32px;
+  width: 34px;
+  height: 34px;
   border-radius: 50%;
-  border: 1px solid var(--border-color);
-  background: var(--bg-primary);
+  border: 1px solid rgba(255, 255, 255, 0.25);
+  background: rgba(250, 248, 245, 0.65);       /* Semi-transparent ivory */
+  backdrop-filter: blur(8px);                  /* Frosted glass blur */
+  -webkit-backdrop-filter: blur(8px);          /* Safari support */
   color: var(--text-primary);
-  font-size: 0.9rem;
+  font-size: 0.85rem;
   display: flex;
   align-items: center;
   justify-content: center;
