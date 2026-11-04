@@ -346,7 +346,7 @@ img {
   justify-content: space-between;
   text-transform: uppercase;
   align-items: center;
-  font-size: clamp(0.5rem, 0.9vw, 0.65rem);   /* <-- Scalable font size */
+  font-size: clamp(0.25rem, 0.9vw, 0.3rem);   /* <-- Scalable font size */
   color: var(--text-subtle);
   position: relative;
   z-index: 10;

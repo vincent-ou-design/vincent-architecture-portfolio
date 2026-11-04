@@ -68,6 +68,64 @@
       ]
     },
     {
+      "id": "project-08",
+      "title": "Ta-kang Junior High School Extension Building",
+      "category": "Institutional Building",
+      "year": "2026",
+      "location": "Taoyuan, Taiwan",
+      "brief": "Where Tangram meets architecture",
+      "coverImage": "assets/images/8-0.jpg",
+      "description": [
+        "The concept, “The Art of Tangram,” draws inspiration from the traditional Chinese puzzle 七巧板, where seven simple geometric pieces come together to form countless shapes and compositions. Similarly, the architecture explores how individual forms can be arranged and combined to create a unified design with its own identity.",
+        "Through the arrangement of different geometric volumes, spaces, and functions, the building creates a balance between individuality and unity. Each element maintains its own character while contributing to the overall architectural composition, allowing different forms and spaces to interact in a meaningful way.",
+        "Beyond its geometric expression, the concept represents creativity, flexibility, and connection. Just as tangram pieces can be rearranged into different compositions, the architecture seeks to create adaptable spaces that encourage interaction, exploration, and new possibilities."
+      ],
+      "disclaimer": "Disclaimer: All drawings and renderings are for conceptual purposes only. The as built project will differ from the renderings shown in this gallery.",
+      "details": {
+        "role": "Design Visualization (MTL Architects)",
+        "scale": "2,100 sqm",
+        "status": "Design Competition"
+      },
+      "gallery": [
+        {
+          "url": "assets/images/8-0.jpg",
+          "caption": "Main View"
+        },
+        {
+          "url": "assets/images/8-1.jpg",
+          "caption": "View from Courtyard"
+        },
+        {
+          "url": "assets/images/8-2.jpg",
+          "caption": "View from Courtyard"
+        },
+        {
+          "url": "assets/images/8-3.jpg",
+          "caption": "View to main stair"
+        },
+        {
+          "url": "assets/images/8-4.jpg",
+          "caption": "Connection area on 3rd floor"
+        },
+        {
+          "url": "assets/images/8-5.jpg",
+          "caption": "Southwest entrance"
+        },
+        {
+          "url": "assets/images/8-6.png",
+          "caption": "Southeast facade"
+        },
+        {
+          "url": "assets/images/8-7.jpg",
+          "caption": "South view from street"
+        },
+        {
+          "url": "assets/images/8-8.jpg",
+          "caption": "Aerial view"
+        }
+      ]
+    },
+    {
       "id": "project-06",
       "title": "Wen-hsin Elementary School 4th Phase Extension Building",
       "category": "Institutional Building",
